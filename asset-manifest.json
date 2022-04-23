@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/I-am-klinton/static/css/main.91f3b1fe.css",
+    "main.js": "/I-am-klinton/static/js/main.199555e0.js",
+    "static/media/img1.png": "/I-am-klinton/static/media/img1.3db427cc1e09cebc3007.png",
+    "static/media/spl.png": "/I-am-klinton/static/media/spl.ecc55617c08c883eb0f9.png",
+    "static/media/img2.jpg": "/I-am-klinton/static/media/img2.b1c80298d21abde93da4.jpg",
+    "static/media/klinton.jpg": "/I-am-klinton/static/media/klinton.c95fb6303577fd90e2a8.jpg",
+    "static/media/img4.png": "/I-am-klinton/static/media/img4.de72a7fe759d4adcbd0e.png",
+    "index.html": "/I-am-klinton/index.html",
+    "main.91f3b1fe.css.map": "/I-am-klinton/static/css/main.91f3b1fe.css.map",
+    "main.199555e0.js.map": "/I-am-klinton/static/js/main.199555e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91f3b1fe.css",
+    "static/js/main.199555e0.js"
+  ]
+}
